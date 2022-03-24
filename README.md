@@ -1,6 +1,13 @@
 # Piggy_Bank
 
-A program that inserts a coin into a piggybank, 'clink's when it's shaken, and returns the coin once broken.
+The program does the following:
+- Inserts a coin into a piggybank (using '.insert')
+- When shaken it will 'clink' if it contains a coin (using '.shake')
+- When shaken it will return no sound if it doesn't contain a coin (using '.shake')
+- When smashed it will return the coin if it was inserted (using '.smash')
+- When smashed it will not return anything if nothing was inserted (using '.smash')
+
+
 This is a small exercise for test driven development.
 
 # User Stories
