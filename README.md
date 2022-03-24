@@ -1,4 +1,4 @@
-# Piggy-Bank
+# Piggy_Bank
 
 A program that inserts a coin into a piggybank, 'clink's when it's shaken, and returns the coin once broken.
 This is a small exercise for test driven development.
